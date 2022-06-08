@@ -1,0 +1,10 @@
+Link para donwload do Git https://git-scm.com/downloads
+
+Link da página do bootcamp na DIO https://web.dio.me/track/a3c2cdaa-f36b-4bf1-9527-28caea5f558a
+
+Dicas importantes para um bom estudo:man_student:
+
+1. Encontrar um ritmo confortável para não sobrecarregar a cabeça, como por exemplo, dar uma pausa nos estudos a cada 2 ou 3 horas, tempo esse podendo variar de pessoa para pessoa.
+2. Tirar um tempo do dia para realizar exercícios de lógica, para aprimorar a capacidade do cérebro de resolver problemas.
+3. Sempre se concentar e dar uma revisada no conteúdo antes de realizar um desafio, caso seja necessário.
+4. Sempre ir aos poucos tentando criar algo sozinho, sem a ajuda de uma aula ou de alguma pessoa.
